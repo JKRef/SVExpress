@@ -1,0 +1,38 @@
+[
+  {
+    "title": "placa de video",
+    "precio": "900000",
+    "descripcion": "apple",
+    "codigo": "AJ1209",
+    "stock": "15",
+    "thumbnail": "https://www.venex.com.ar/products_images/1628541467_p03230_bigimage_822608a2d0905372.png",
+    "id": 1
+  },
+  {
+    "title": "Mouse",
+    "precio": "100",
+    "descripcion": "HP",
+    "codigo": "AJ5632",
+    "stock": "21",
+    "thumbnail": "https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/non-braid/antivenom-g600/g600-gallery-6-nb.png?v=1",
+    "id": 2
+  },
+  {
+    "title": "laptop",
+    "precio": "10000",
+    "descripcion": "Asus",
+    "codigo": "AJ3498",
+    "stock": "45",
+    "thumbnail": "https://consumer.huawei.com/content/dam/huawei-cbg-site/latam/mx/mkt/plp/laptops/d14-amd-2021.jpg",
+    "id": 3
+  },
+  {
+    "title": "placa de video",
+    "precio": "900000",
+    "descripcion": "apple",
+    "codigo": "AJ1209",
+    "stock": "15",
+    "thumbnail": "https://www.venex.com.ar/products_images/1628541467_p03230_bigimage_822608a2d0905372.png",
+    "id": 4
+  }
+]
